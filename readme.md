@@ -99,7 +99,7 @@ Please head to the forum to discover numerous lua scripts.
 - [X-Plane APT file Converter](https://github.com/CarlosBergillos/xplane_apt_convert) (converter to geographic formats)
 - [Airport Layout Visualizer](https://github.com/lyestarzalt/airport-layout-visualizer)
 - [Ortho4XP](https://github.com/oscarpilote/Ortho4XP)
-- [autoortho](https://github.com/kubilus1/autoortho)
+- [autoortho4xplane](https://github.com/ProgrammingDinosaur/autoortho4xplane)
 
 
 ## Machine Learning / Artificial Intelligence
