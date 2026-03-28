@@ -166,3 +166,9 @@ Useful information to fly our aircrafts:
 
 Numerous contributors of above projects often share more work on their GitHub account.
 Feel free to explore those gems.
+
+Missing a project you like? Added a new open source application or plugin?
+Submit a PR.
+
+
+Last updated Mar 2026
