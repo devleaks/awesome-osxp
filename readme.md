@@ -38,6 +38,9 @@ Please note that some plugins are old, no longer work in recent versions of X-Pl
 - [avitab](https://github.com/fpw/avitab)
 - [X-RAAS2 Updated for X-Plane 12](https://github.com/olivierbutler/X-RAAS2-xp12)
 - [XTouchDownRecorder](https://github.com/cpuwolf/XTouchDownRecorder)
+- [XA-snow](https://github.com/hotbso/xa-snow)
+- [Better Pusback](https://github.com/olivierbutler/BetterPusbackMod)
+
 
 
 ## Aicrafts
@@ -128,6 +131,7 @@ Other projects, source code not necessarily available, but still free!
 - [SimChecklist](https://www.simchecklist.eu)
 - [Airports for X-Plane](https://www.airports4xp.info)
 - [Navigraph Simbrief Flight Planning](https://dispatch.simbrief.com/home)
+- [NextSimFlight](https://www.nextsimflight.com)
 
 
 # Laminar Research
