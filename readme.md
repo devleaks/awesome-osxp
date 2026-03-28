@@ -86,7 +86,7 @@ Please head to the forum to discover numerous lua scripts.
 - [Hoppie Auto Station (Automated CPDLC Station - EPWW)](https://github.com/jkubrynski/hoppie-auto-station)
 - [Flex Calculator](https://github.com/jbud/Flex-Calculator-TS)
 - [X-Plane Commands](https://github.com/borisdiakur/xp-command)
-- [Cockpitdecks](https://github.com/devleaks/cockpitdecks)
+- [Cockpitdecks](https://github.com/devleaks/cockpitdecks), [some aircraft configurations](https://github.com/dlicudi/cockpitdecks-configs)
 - [X-Addon-Oxyde](https://github.com/StarTuz/X-Addon-Oxide)
 
 
