@@ -1,19 +1,20 @@
 # Awesome Laminar Research X-Plane Flight Simulator Open Source Projects
 
-Collection of open source projects for X-Plane flight simulator
+Curated list of open source projects for X-Plane flight simulator.
 
-Should be:
+Link in the list should be:
 - Open source software, with source code available
 - Open source technical information to help X-Plane developers
 
 Also accepted:
-- Link to web site providing a free service for X-Plane simmers
+- Link to web site providing a free service for X-Plane simmers (like flight planing, ACARS communication...)
 
 Not accepted:
 - Products (plugins, aircrafts, sceneries...) without source code publicly available
 - Commercial products (unless source code is publicly available)
 
-Please note that some plugins are old, no longer work in recent versions of X-Plane.
+Please note that some plugins are old, still work in older version of X-Plane,
+some no longer work in recent versions of X-Plane.
 
 
 # Applications
