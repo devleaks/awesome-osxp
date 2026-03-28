@@ -20,6 +20,7 @@ Please note that some plugins are old, no longer work in recent versions of X-Pl
 
 - [Little Nav Map](https://github.com/albar965/littlenavmap)
 - [X-dispatch](https://github.com/lyestarzalt/x-dispatch)
+- [OwO! FlightAssistant](https://github.com/Tommy131/OwO-FlightAssistant)
 
 
 
@@ -83,6 +84,7 @@ Please head to the forum to discover numerous lua scripts.
 ## Other Applications
 
 - [Hoppie Auto Station (Automated CPDLC Station - EPWW)](https://github.com/jkubrynski/hoppie-auto-station)
+- [Flex Calculator](https://github.com/jbud/Flex-Calculator-TS)
 - [X-Plane Commands](https://github.com/borisdiakur/xp-command)
 - [Cockpitdecks](https://github.com/devleaks/cockpitdecks)
 - [X-Addon-Oxyde](https://github.com/StarTuz/X-Addon-Oxide)
