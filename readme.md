@@ -94,7 +94,7 @@ Please head to the forum to discover numerous lua scripts.
 - [X-Addon-Oxyde](https://github.com/StarTuz/X-Addon-Oxide)
 
 
-# Development / Exploration Tools & Libraries
+# Development, Exploration Tools & Libraries
 
 
 ## Mapping and Related
@@ -111,7 +111,12 @@ Please head to the forum to discover numerous lua scripts.
 - [Implementation of Deep Reinforcement Learning in JSBSim and XPlane](https://github.com/NA1384/RL-UAV)
 
 
-## Other Librares
+## Hardware, Home Cockpits
+
+- [ardxp](https://github.com/andrewerrington/ardxp) (Framework to connect Arduino to X-Plane via UDP using Wiznet W5500 Ethernet module)
+
+
+## Other Software Librares
 
 - [XPPlanes](https://github.com/TwinFan/XPPlanes)
 - [XPMP2](https://github.com/TwinFan/XPMP2)
