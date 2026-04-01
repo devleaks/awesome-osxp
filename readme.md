@@ -22,7 +22,7 @@ some no longer work in recent versions of X-Plane.
 - [Little Nav Map](https://github.com/albar965/littlenavmap)
 - [X-dispatch](https://github.com/lyestarzalt/x-dispatch)
 - [OwO! FlightAssistant](https://github.com/Tommy131/OwO-FlightAssistant)
-
+- [XFast Manager](https://github.com/CCA3370/XFast-Manager)
 
 
 # Add-Ons
