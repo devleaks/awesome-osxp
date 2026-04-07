@@ -51,6 +51,11 @@ some no longer work in recent versions of X-Plane.
 - [Bombardier Global 5000](https://github.com/NNowakowski/X-Plane-Bombardier-Global-5000)
 
 
+## Miscellaneous Tools
+
+- [XP12 CSL Light Updater](https://github.com/FroggiDevelopment/XP12_CSL_lights_updater/)
+
+
 ## Hardware Adapters
 
 - [Logitec/Saitek Panels](https://github.com/sparker256/xsaitekpanels)
